@@ -33,8 +33,11 @@ module.exports = {
     longitud: {
       type: 'number'
     },
+    imagen:{
+      type:"string"
+    },
     autorId: {
-      model: 'Autor'
+      type: 'number'
     }
     
   },

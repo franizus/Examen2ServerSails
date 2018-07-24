@@ -23,10 +23,6 @@ module.exports = {
     },
     ecuatoriano: {
       type: 'number'
-    },
-    libros: {
-      collection: 'Libro',
-      via: 'autorId'
     }
     
   },
