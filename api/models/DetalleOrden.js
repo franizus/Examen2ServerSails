@@ -9,6 +9,9 @@ module.exports = {
   
   attributes: {
     
+    idOrden:{
+      type:"number"
+    },
     idLibro:{
       type:"number"
     },

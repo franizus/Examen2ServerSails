@@ -27,10 +27,7 @@ module.exports = {
     nombreEditorial: {
       type: 'string'
     },
-    latitud: {
-      type: 'number'
-    },
-    longitud: {
+    precio: {
       type: 'number'
     },
     imagen:{
